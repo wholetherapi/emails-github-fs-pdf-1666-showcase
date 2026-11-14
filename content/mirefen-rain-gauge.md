@@ -5,7 +5,7 @@ design_revision: MRG-2
 summary: Tipping-bucket rain gauge with a heated funnel for cold-season fieldwork.
 maintainers: [S. Adeyemi, P. Novak]
 license: CERN-OHL-S-2.0
-design_package: https://github.com/wholetherapi/emails-github-fs-pdf-1666-mirefen-gauge-notes
+design_package: https://github.com/wholetherapi/emails-github-fs-pdf-1666-mirefen-rain-gauge
 ---
 
 The Mirefen gauge uses a double-tipping bucket with magnetic reed pickups and a heated
