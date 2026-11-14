@@ -5,7 +5,7 @@ design_revision: NFH-2
 summary: Passive fog-collection harp with a conductive-mesh droplet sensor and low-power counter.
 maintainers: [L. Moreno, E. Halvorsen]
 license: CERN-OHL-S-2.0
-design_package: https://github.com/wholetherapi/emails-github-fs-pdf-1666-nacreline-fog-harp
+design_package: https://github.com/wholetherapi/emails-github-fs-pdf-1666-nacreline-harp-sources
 ---
 
 The Nacreline harp uses a tensioned conductive mesh to harvest drinking water from coastal
